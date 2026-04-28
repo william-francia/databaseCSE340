@@ -10,7 +10,7 @@ Although the dataset is small, this project demonstrates my ability to:
 - Export datasets for visualization  
 ![Dashboard 1](Data-base-powerbi-2025.png)
 ![Dashboard 2](Data-base-power-bi-2025.png)
-I can provide analyses and graphs that show the results. If you would like to have an interview with me, I can demonstrate this.
+I can provide analyses and graphs that show the results. This is another project I did in PowerPoint; however, I want to demonstrate that I can achieve these same graphs using usable and useful data from a database after processing it. 
 Tools Used
 - SQL  
 - Data Cleaning  
